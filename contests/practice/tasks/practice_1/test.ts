@@ -24,6 +24,4 @@ const exampleIDs = readdirSync(`${__dirname}/examples`, { withFileTypes: true })
   .filter((dirent) => dirent.isDirectory())
   .map((dirent) => dirent.name);
 
-exampleIDs.forEach((id) => {
-  check(id);
-});
+exampleIDs.forEach(check);
