@@ -5,7 +5,11 @@
   "repository": "git@github.com:soe-j/atcoder-ts.git",
   "author": "soe-j <7115203+soe-j@users.noreply.github.com>",
   "license": "MIT",
+  "scripts": {
+    "ts-node": "ts-node"
+  },
   "dependencies": {
+    "ts-node": "^10.4.0",
     "typescript": "^4.4.4"
   }
 }
