@@ -1,8 +1,9 @@
-const input = require("fs")
-  .readFileSync("/dev/stdin", "utf8")
+import { readFileSync } from "fs";
+
+const input = readFileSync("/dev/stdin", "utf8")
   .trim()
   .split("\n")
-  .map((line: string) => {
+  .map((line) => {
     return line.split(" ");
   });
 
