@@ -1,8 +1,8 @@
 {
-  "name": "atcoder-js",
+  "name": "atcoder-ts",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:soe-j/atcoder-js.git",
+  "repository": "git@github.com:soe-j/atcoder-ts.git",
   "author": "soe-j <7115203+soe-j@users.noreply.github.com>",
   "license": "MIT"
 }

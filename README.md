@@ -1,1 +1,1 @@
-# atcoder-js
+# atcoder-ts
