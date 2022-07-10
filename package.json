@@ -6,6 +6,7 @@
   "author": "soe-j <7115203+soe-j@users.noreply.github.com>",
   "license": "MIT",
   "scripts": {
+    "new": "ts-node lib/new",
     "ts-node": "ts-node",
     "test": "jest"
   },
